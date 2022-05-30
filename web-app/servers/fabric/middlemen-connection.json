@@ -16,7 +16,7 @@
         }
     },
     "channels": {
-        "supplychainchannel": {
+        "supply": {
             "orderers": ["orderer.example.com"],
             "peers": {
                 "peer0.middlemen.example.com": {
