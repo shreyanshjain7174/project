@@ -7,7 +7,7 @@ export class Navbar extends Component {
     console.log(role);
     return (
       <nav className="navbar navbar-dark bg-dark navbar-expand-lg">
-        <div className="navbar-brand">FoodSC</div>
+        <div className="navbar-brand">Seed Supply chain</div>
         <div className="collapse navbar-collapse">
           <ul className="navbar-nav mr-auto">
             <li className="navbar-item">
